@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 
-exam_title = "2024 Spring Objective Oriented Programming"
+exam_title = "2024 Objective Oriented Programming Final"
 fname = "OOP_Final_Grading.xlsx"
 solution_1 = '''Solution
 1. (10p - 2p each) \n
